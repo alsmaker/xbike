@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254635069141",
+    "firebase_url": "https://xbike-ecb9b-default-rtdb.firebaseio.com",
+    "project_id": "xbike-ecb9b",
+    "storage_bucket": "xbike-ecb9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254635069141:android:01ce71c38df11407cc1c5c",
+        "android_client_info": {
+          "package_name": "com.proj.xbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254635069141-q3b1qbs2e4kliv63phv6rvnj7tsqo7t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proj.xbike",
+            "certificate_hash": "7aef2500f3ada8ad70ff7ea6c4e2672a268630de"
+          }
+        },
+        {
+          "client_id": "254635069141-dck422mp1mjlnavjo1q4tl0cbdhtq53d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREpSiQ3IBr-jryn92_rlPrSPrAyqcous"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254635069141-dck422mp1mjlnavjo1q4tl0cbdhtq53d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
