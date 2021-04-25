@@ -1,0 +1,23 @@
+name your deployment : hibaike-search-deployment
+
+username : elastic
+Password : uGeImNqJ3DP31Qanpavemgqz
+
+cloud id : 
+xbike-search-deployment:dXMtd2VzdDEuZ2NwLmNsb3VkLmVzLmlvJGM1NGYzMzdkZDgxMTQ4MWI5YjM0Y2Y0MTJjNjY1MzY1JGMzOGM2OTY3ZmZhNDQ2MDFhNTA4OGRiOWM3NTNiYzMw
+
+elasticsearch
+endpont : https://hibaike-search-deployment.es.asia-northeast1.gcp.cloud.es.io:9243
+cluster id : b22300e9a66348a2b151471a70fab958
+
+kibana
+endpoint : https://hibaike-search-deployment.kb.asia-northeast1.gcp.cloud.es.io:9243
+cluster id : 523f7e0c8634407a804d94f0de3d34ea
+
+enterprise search
+endpoint : https://hibaike-search-deployment.ent.asia-northeast1.gcp.cloud.es.io/login
+cluster id : b037474c6c7e403bb674910376dd6ca9
+
+custom endpoints alias : hibaike-search-deployment
+
+https://console.cloud.google.com/billing/01043A-5E59DC-2EE282/reports/commitments/default?authuser=0&consoleUI=FIREBASE
